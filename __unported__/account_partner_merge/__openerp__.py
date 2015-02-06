@@ -25,6 +25,7 @@
  'author': 'Camptocamp',
  'maintainer': 'Camptocamp',
  'website': 'http://www.camptocamp.com/',
+ 'license': 'AGPL-3',
  'depends': ['account_report_company', 'base_partner_merge'],
  'data': ['account_partner_merge_view.xml'],
  'test': [],

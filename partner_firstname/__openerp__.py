@@ -40,6 +40,7 @@ Olivier Laurent <olivier.laurent@acsone.eu>
     'maintainer': 'Camptocamp, Acsone',
     'category': 'Extra Tools',
     'website': 'http://www.camptocamp.com, http://www.acsone.eu',
+    'license': 'AGPL-3',
     'depends': ['base'],
     'data': [
         'partner_view.xml',

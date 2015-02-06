@@ -27,6 +27,7 @@ Link module for base_partner_merge which extract portal dependency
  'author': 'Camptocamp',
  'maintainer': 'Camptocamp',
  'website': 'http://www.camptocamp.com/',
+ 'license': 'AGPL-3',
  'depends': ['portal', 'base_partner_merge'],
  'data': [],
  'test': [],

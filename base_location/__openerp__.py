@@ -27,6 +27,7 @@
 Introduces a better zip/npa management system.
 It enables zip/city auto-completion on partners""",
  'website': 'http://www.camptocamp.com',
+ 'license': 'AGPL-3',
  'data': ['better_zip_view.xml',
           'state_view.xml',
           'company_view.xml',

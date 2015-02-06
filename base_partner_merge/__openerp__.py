@@ -1,6 +1,7 @@
 {
     'name': 'Base Partner Merge',
     'author': 'OpenERP S.A.',
+    'license': 'AGPL-3',
     'category': 'Generic Modules/Base',
     'version': '0.1',
     'description': """

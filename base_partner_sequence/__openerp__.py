@@ -26,6 +26,7 @@
     "author": "Tiny/initOS GmbH & Co. KG",
     "category": "Generic Modules/Base",
     "website": "http://www.initos.com",
+    "license": "AGPL-3",
     "depends": ["base"],
     "summary": "Sets customer's code from a sequence",
     "description": """

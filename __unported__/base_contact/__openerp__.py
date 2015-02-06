@@ -24,6 +24,7 @@
     'version': '1.0',
     'author': 'OpenERP SA',
     'website': 'http://www.openerp.com',
+    'license': 'AGPL-3',
     'category': 'Customer Relationship Management',
     'complexity': "expert",
     'description': """
