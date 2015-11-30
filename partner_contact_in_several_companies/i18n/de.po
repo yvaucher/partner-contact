@@ -3,6 +3,7 @@
 # * partner_contact_in_several_companies
 # 
 # Translators:
+# Rudolf Schnapka <rs@techno-flex.de>, 2015
 # Rudolf Schnapka <schnapkar@golive-saar.de>, 2014
 msgid ""
 msgstr ""
@@ -137,7 +138,8 @@ msgstr "Straße..."
 msgid ""
 "To see personal information about this contact, please\n"
 "                    go to to the this person form:"
-msgstr ""
+"                        go to to the his person form:"
+msgstr "Um persönliche Information zu diesem Kontakt zu erhalten, gehen Sie bitte auf das Person-Formular:"
 
 #. module: partner_contact_in_several_companies
 #: model:ir.ui.view,arch_db:partner_contact_in_several_companies.view_partner_form_inherit

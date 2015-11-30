@@ -20,17 +20,17 @@ msgstr ""
 #. module: partner_contact_gender
 #: selection:res.partner,gender:0
 msgid "Female"
-msgstr ""
+msgstr "Weiblich"
 
 #. module: partner_contact_gender
 #: model:ir.model.fields,field_description:partner_contact_gender.field_res_partner_gender
 msgid "Gender"
-msgstr ""
+msgstr "Geschlecht"
 
 #. module: partner_contact_gender
 #: selection:res.partner,gender:0
 msgid "Male"
-msgstr ""
+msgstr "Männlich"
 
 #. module: partner_contact_gender
 #: selection:res.partner,gender:0
