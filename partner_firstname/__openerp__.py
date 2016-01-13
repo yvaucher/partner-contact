@@ -9,6 +9,7 @@
     'summary': "Split first name and last name for non company partners",
     'version': '9.0.2.0.0',
     'author': "Camptocamp,Odoo Community Association (OCA)",
+    'license': 'AGPL-3',
     'maintainer': 'Camptocamp, Acsone',
     'category': 'Extra Tools',
     'website': 'http://www.camptocamp.com, http://www.acsone.eu',
